@@ -11,7 +11,7 @@
   <entry key="mail_subject">
     <text lang="en">Rapla: Allocation change of [{0}]</text>
     <text lang="de">Rapla: Reservierungsbenachrichtigung [{0}]</text>
-    <text lang="fr">Rapla: Changement d'allocation pour [{0}]</text>
+    <text lang="fr">Changement d''allocation pour [{0}]</text>
     <text lang="es">Rapla: Cambio de asignación para [{0}]</text>
     <text lang="nl">Rapla: Reservatie wijziging voor [{0}]</text>
   </entry>
@@ -19,7 +19,7 @@
   <entry key="mail_body">
     <text lang="en">The following allocation changes have been made by [{0}]:</text>
     <text lang="de">Die folgenden Belegungsänderungen wurden von [{0}] vorgenommen:</text>
-    <text lang="fr">Les changement d'allocation suivants ont été faits:</text>
+    <text lang="fr">Les changements d''allocation suivants ont été faits par [{0}] :</text>
     <text lang="es">Se han hecho los siguientes cambios de asignación:</text>
     <text lang="nl">Volgende wijzigen werden uitgevoerd door [{0}]:</text>
   </entry>
@@ -35,7 +35,7 @@
   <entry key="appointment.change">
     <text lang="en">Appointment changed for [{0}] from:</text>
     <text lang="de">Termin verändert für [{0}] von:</text>
-    <text lang="fr">Changement d''horaire pour [{0}] c''était:</text>
+    <text lang="fr">Changement de réservation pour [{0}] de :</text>
     <text lang="es">Cambio de cita para [{0}]</text>
     <text lang="nl">Afspraak gewijzigd voor [{0}] van:</text>
   </entry>
@@ -43,14 +43,14 @@
   <entry key="appointment.remove">
     <text lang="en">Removed appointment for [{0}]:</text>
     <text lang="de">Termin für [{0}] gelöscht:</text>
-    <text lang="fr">Libération de [{0}] le:</text>
+    <text lang="fr">Réservation supprimée pour [{0}] :</text>
     <text lang="es">Se eliminó la cita para [{0}]:</text>
     <text lang="nl">Afspraak verwijdert voor [{0}]:</text>
   </entry>
   <entry key="moved_to">
     <text lang="en">to: </text>
     <text lang="de">nach: </text>
-    <text lang="fr">à:</text>
+    <text lang="fr">à :</text>
     <text lang="es">para:</text>
     <text lang="nl">naar: </text>
   </entry>  
@@ -67,19 +67,19 @@
     <text lang="fr">Description complète de l'évènement</text>
     <text lang="es">Descriptción completa del evento</text>
     <text lang="nl">Volledige reservatie</text>
-  </entry>  
+  </entry> 
 
   <entry key="notify_if_owner">
     <text lang="en">Also notify on modification of own events.</text>
     <text lang="de">Benachrichtige auch bei Änderungen an eigenen Veranstaltungen.</text>
-    <text lang="fr">Je veux être notifié pour les changements faits par moi-même</text>
+    <text lang="fr">Me notifier aussi les modifications sur mes propres événements</text>
     <text lang="es">Quiero ser notificado de los cambios hechos por mí mismo</text>
     <text lang="nl">Evenals bij een wijziging van eigen reservaties.</text>
   </entry>
   <entry key="notification.option.description">
     <text lang="en">Mail for every allocation change of the listed resources and persons</text>
     <text lang="de">Mail bei Belegungsänderung von folgenden Ressourcen und Personen</text>
-    <text lang="fr">Envoit de Mail à chaque changement d'allocation des resources/personnes listées</text>
+    <text lang="fr">Envoyer un email à chaque changement d'allocation sur les ressources et personnes listées</text>
     <text lang="es">Envío de correo a cada cambio de asignación de recursos/personas listado</text>
     <text lang="nl">Stuur mij een bericht van wijziging van een reservatie met volgende Personen &amp; Middelen</text>
   </entry>
@@ -98,7 +98,8 @@
         This email has been sent by [{0}] </text>
     <text lang="de">------------------------------------------------------------------------------------------------------------------------------
         Diese E-mail wurde von [{0}] gesendet, </text>
-    <text lang="fr"></text>
+    <text lang="fr">------------------------------------------------------------------------------------------------------------------------------
+        Cet email a été envoyé par [{0}], </text>
   	<text lang="es"></text> 
   	<text lang="nl">------------------------------------------------------------------------------------------------------------------------------
         Dit bericht werd verstuurd door [{0}] </text> 
@@ -108,7 +109,7 @@
         ------------------------------------------------------------------------------------------------------------------------------</text>
     <text lang="de">weil Sie über Veränderungen der Ressource/n --{0}-- benachrichtigt werden wollten. Wenn Sie diese Nachricht nicht mehr erhalten wollen, ändern Sie die Benachrichtigungseinstellungen in ihren persönlichen Einstellungen.
         ------------------------------------------------------------------------------------------------------------------------------</text>
-    <text lang="fr"></text>
+    <text lang="fr">parce que vous avez opté pour une notification sur le(s) ressource(s) --{0}--. Si vous ne voulez pas recevoir ce message, changez vos paramètres de notification dans vos options personnelles Rapla.</text>
   	<text lang="es"></text>  
     <text lang="nl">omdat je de optie \"bericht bij wijziging\" opteert voor het middel --{0}--. Wijzig je notificatie voorkeur als je dit bericht niet meer wenst te ontvangen.
         ------------------------------------------------------------------------------------------------------------------------------</text>
