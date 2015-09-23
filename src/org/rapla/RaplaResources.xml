@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?><!--*- coding: utf-8 -*-->
+<?xml version="1.0" encoding="utf-8"?><!--*- coding: utf-8 -*-->
 <!DOCTYPE resources PUBLIC "-//rapla team//DTD Language Files 1.0//" "http://rapla.sf.net/dtds/resources.dtd">
 <!-- Welcome to the rapla-internationalization
 It's easy to add a new language. Just add a new row with the language
@@ -592,7 +592,7 @@ See French text.
     <entry key="paste_into_existing_event">
         <text lang="en">Paste into existing event</text>
         <text lang="de">Einfügen in bestehende Veranstaltung</text>
-        <text lang="fr">Collier en événement existant</text>
+        <text lang="fr">Coller dans un évènement existant</text>
         <text lang="es">Pegar en evento existente</text>
         <text lang="cs">Vložit do existující událost</text>
         <text lang="nl">Plak in bestaande reservatie</text>
@@ -612,7 +612,7 @@ See French text.
     <entry key="print_to_file">
         <text lang="en">Print to File</text>
         <text lang="de">In Datei drucken</text>
-        <text lang="fr">Imprimer vers Fichier</text>
+        <text lang="fr">Imprimer dans un Fichier</text>
         <text lang="es">Imprimir en Fichero</text>
         <text lang="cs">Tisk do souboru</text>
         <text lang="nl">Afdrukken naar bestand</text>
@@ -681,7 +681,7 @@ See French text.
     <entry key="show_as">
         <text lang="en">Show As</text>
         <text lang="de">Anzeigen als</text>
-        <text lang="fr">Afficher</text>
+        <text lang="fr">Afficher comme</text>
         <text lang="es">Mostrar como</text>
         <text lang="cs">Ukaž vše</text>
         <text lang="nl">Type</text>
@@ -941,6 +941,7 @@ See French text.
      <entry key="test_resource">
         <text lang="en">test</text>
         <text lang="de">Test</text>
+        <text lang="fr">Test</text>
 		<text lang="pt">Teste</text>
     </entry>
     <entry key="fixed_date">
@@ -1016,7 +1017,7 @@ See French text.
     <entry key="info">
         <text lang="en">About Rapla...</text>
         <text lang="de">Info</text>
-        <text lang="fr">Information</text>
+        <text lang="fr">À propos de Rapla...</text>
         <text lang="es">Info</text>
         <text lang="cs">Informace</text>
         <text lang="nl">Informatie</text>
@@ -1046,6 +1047,7 @@ See French text.
     <entry key="disabled">
         <text lang="en">disabled</text>
         <text lang="de">ausgeschaltet</text>
+        <text lang="fr">désactivé</text>
         <text lang="nl">Uitgeschakeld</text>
         <text lang="pl">zablokowane</text>
 		<text lang="pt">Desabilitado</text>
@@ -1063,7 +1065,7 @@ See French text.
     <entry key="not_selected.help">
 	    <text lang="en">Not currently selected. <br/>Unselect "Only Own Reservations" or change your filter settings. </text>
 	    <text lang="de">Nicht ausgewählt. <br/>Schalten Sie "nur eigene Reservierungen" aus oder ändern Sie die Filtereinstellungen. </text>
-	    <text lang="fr">Actuellement non sélectionné. <br/>Dé-sélectionnez "Seulement mes réservations" ou changez les réglages du filtre.</text>
+	    <text lang="fr">Actuellement non sélectionné. <br/>Dé-sélectionnez "Seulement mes évènements" ou changez les réglages du filtre.</text>
 	    <text lang="es">Actualmente no seleccionado. <br/>Desmarca "Sólo mis reservas" o cambia las configuraciones de los filtros.</text>
         <text lang="cs">Položka není v této chvíli vybrána. <br/>Odstraňte volbu "Moje rezervace", nebo změňte nastavení vašeho filtru.</text>
         <text lang="nl">"Enkel eigen reservaties" afvinken in "Weergave" of wijzig de "Filter" instellingen.</text>
@@ -1253,7 +1255,7 @@ See French text.
     <entry key="preferences">
         <text lang="en">Preferences</text>
         <text lang="de">Einstellungen</text>
-        <text lang="fr">Préférence</text>
+        <text lang="fr">Préférences</text>
         <text lang="es">Preferencias</text>
         <text lang="cs">Předvolby</text>
         <text lang="nl">Voorkeuren</text>
@@ -1402,7 +1404,7 @@ See French text.
         <text lang="pt">Até</text>        
     </entry>
     <entry key="total_occurances">
-        <text lang="en">Total occurances</text>
+        <text lang="en">Total occurrences</text>
         <text lang="de">Gesamtanzahl Termine</text>
         <text lang="fr">Nombre d'occurrences</text>
         <text lang="es">Número de apariciones</text>
@@ -1497,7 +1499,7 @@ See French text.
     <entry key="warning.duplicated_appointments">
         <text lang="en">WARNING: The same appointment exists multiple times [{0}]!</text>
         <text lang="de">WARNUNG: Den gleichen Termin gibt es mehrmals [{0}]!</text>
-        <text lang="fr">ATTENTION : La même réservation existe plusieurs fois [{0}]!</text>
+        <text lang="fr">ATTENTION : La même réservation existe plusieurs fois [{0}] !</text>
         <text lang="es">¡ATENCIÓN : La misma reserva existe en múltiples ocasiones [{0}]!</text>
         <text lang="cs">POZOR: Stejné ujednání existuje ve více časech  [{0}]!</text>
         <text lang="nl">WAARSCHUWING: Dezelfde afspraak bestaat meerdere keren: [{0}]!</text>
@@ -1596,7 +1598,7 @@ See French text.
     <entry key="warning.no_allocatables_selected">
         <text lang="en">You have not selected any resources/persons!</text>
         <text lang="de">Sie haben keine Ressourcen/Personen ausgewählt!</text>
-        <text lang="fr">Vous n'avez pas sélectionné de ressource/personne !</text>
+        <text lang="fr">Vous n'avez pas sélectionné de ressources/personne !</text>
         <text lang="es">¡No ha seleccionado ningún(a) recurso/persona</text>
         <text lang="cs">Nejsou označeny žádné prostředky/osoby!</text> 
         <text lang="nl">Er zijn geen personen / middelen geselecteerd!</text>
@@ -1635,7 +1637,7 @@ See French text.
         <entry key="error.connect">
         <text lang="en">Connection to [{0}] failed! Maybe the host is down and you could try later!</text>
         <text lang="de">Verbindung mit [{0}] fehlgeschlagen! Vielleicht ist der Rechner nicht erreichbar. Versuchen Sie es zu einen späteren Zeitpunkt erneut!</text>
-        <text lang="fr">La connexion vers [{0}] a échoué ! Le serveur n''est peut être pas disponible. Essayez plus tard.</text>
+        <text lang="fr">La connexion vers [{0}] a échoué ! Le serveur n''est peut être pas disponible. Essayez plus tard !</text>
         <text lang="es">¡La conexión a [{0}] ha fallado! El servidor puede no estar disponible. Inténtelo más tarde.</text>
         <text lang="cs">Připojení k [{0}] je špatné! Možná je vypnutý server. Zkuste to později.</text>
         <text lang="nl">Verbinding met [{0}] is verbroken, de server is niet beschikbaar, contacteer de Rapla beheerder of probeer later!</text>
@@ -1665,7 +1667,7 @@ See French text.
     <entry key="error.no_reservation_name">
         <text lang="en">You have to enter a title for your event!</text>
         <text lang="de">Sie müssen einen Titel für Ihre Veranstaltung angeben!</text>
-        <text lang="fr">Vous devez donner un titre à cet événement !</text>
+        <text lang="fr">Vous devez donner un titre à cet évènement !</text>
         <text lang="es">¡Debe introducir un título para su evento!</text>
         <text lang="cs">Vložit nadpis události!</text>
         <text lang="nl">Een titel opgeven voor de reservatie!</text>
@@ -1696,7 +1698,7 @@ See French text.
     <entry key="error.no_entry_for">
         <text lang="en">You need to provide an entry for: {0}</text>
         <text lang="de">Sie müssen einen Eintrag angeben für: {0}</text>
-        <text lang="fr">Vous devez donner : {0}</text>
+        <text lang="fr">Vous devez fournir une entrée pour : {0}</text>
         <text lang="es">Debe dar un : {0}</text>
         <text lang="cs">Nutné poskytnout přístup pro:</text>
         <text lang="nl">Je moet de gegevens opgeven voor: {0}</text>
@@ -1746,7 +1748,7 @@ See French text.
     <entry key="error.no_appointment">
         <text lang="en">An event has to consist of at least one appointment!</text>
         <text lang="de">Eine Veranstaltung muss aus mindestens einem Termin bestehen!</text>
-        <text lang="fr">Un événement est constitué d'au moins une réservation !</text>
+        <text lang="fr">Un évènement est constitué d'au moins une réservation !</text>
         <text lang="es">¡Un evento ha de tener al menos una cita!</text>
         <text lang="nl">Een event moet ten minste 1 reservatie hebben!</text>
         <text lang="pl">Wydarzenie musi mieć choć jeden termin.</text>
@@ -1792,6 +1794,7 @@ See French text.
     <entry key="error.wrong_rapla_version">
        <text lang="de">Aktuallisieren Sie die Rapla-Version {0} auf {1}. Nutzen Sie den Webstart-Link auf {2}</text>
        <text lang="en">Update your rapla version from {0} to {1}. Use the webstart link on {2}</text>
+       <text lang="fr">Veuillez mettre à jour votre version de Rapla de {0} vers {1}. Utilisez le lien webstart sur {2}</text>
     </entry>
     <entry key="error.passwords_dont_match">
         <text lang="en">The passwords don't match!</text>
@@ -1926,6 +1929,7 @@ See French text.
     <entry key="attribute_color_dialog">
         <text lang="en">You need a color attribute for this setting. Do you want to create it?</text>
         <text lang="de">Sie brauchen ein Farbattribute für diese Einstellung. Wollen Sie es erzeugen?</text>
+        <text lang="fr">Il faut un attribut couleur pour ce réglage. Voulez-vous le créer maintenant ?</text>
         <text lang="nl">Een kleur attribuut is nodig voor deze instelling. Wil je deze nu definiëren?</text>
         <text lang="pl">Potrzebujesz koloru atrybutu do tego ustawienia. Chesz go stworzyć?</text>
 		<text lang="pt">Você precisa de uma atributo de cor para esta definição! Você deseja criá-lo?</text>
@@ -2238,6 +2242,7 @@ See French text.
     <entry key="change_email">
     	<text lang="en">change email</text>
     	<text lang="de">Email ändern</text>
+    	<text lang="fr">Changer l'email</text>
     	<text lang="nl">Wijzig email</text>
     	<text lang="pl">Zmień e-mail</text>
 		<text lang="pt">Alterar e-mail</text>
@@ -2245,6 +2250,7 @@ See French text.
     <entry key="send_code">
     	<text lang="en">send code</text>
     	<text lang="de">Code senden</text>
+    	<text lang="fr">envoyer le code</text>
     	<text lang="nl">Verzend beveiligingscode</text>
         <text lang="pl">Wyślij kod</text>
 		<text lang="pt">Enviar código</text>
@@ -2252,6 +2258,7 @@ See French text.
     <entry key="code_validate">
     	<text lang="en">validate</text>
     	<text lang="de">validieren</text>
+    	<text lang="fr">valider</text>
     	<text lang="nl">Valideer</text>
     	<text lang="pl">Weryfikuj</text>
 		<text lang="pt">Validar</text>
@@ -2259,6 +2266,7 @@ See French text.
     <entry key="new_mail">
     	<text lang="en">New email: </text>
     	<text lang="de">Neue Email: </text>
+    	<text lang="fr">Nouvel email : </text>
     	<text lang="nl">Nieuw email adres: </text>
     	<text lang="pl">Nowy e-mail: </text>
 		<text lang="pt">Novo e-mail</text>
@@ -2266,6 +2274,7 @@ See French text.
     <entry key="security_code">
     	<text lang="en">Securitycode: </text>
     	<text lang="de">Sicherheitscode: </text>
+    	<text lang="fr">Code de sécurité : </text>
     	<text lang="nl">Beveiligingscode: </text>
     	<text lang="pl">Kod zabezpieczający: </text>
 		<text lang="pt">Código de segurança</text>
@@ -2273,18 +2282,21 @@ See French text.
     <entry key="code_message1">
     	<text lang="en">(A security code will be sent</text>
     	<text lang="de">(Zur angegeben Email-Adresse wird ein Code gesendet,</text>
+    	<text lang="fr">(un code de sécurité va être envoyé</text>
    		<text lang="pl">(Kod zabezpieczający zostanie wysłany</text>
 		<text lang="pt">(Um código de segurança será enviado</text>
     </entry>
     <entry key="code_message2">
     	<text lang="en">to the email-adress stated besides.)</text>
     	<text lang="de">der im unteren Feld verifiziert werden muss.)</text>
+    	<text lang="fr">à l'adresse email indiquée ci-dessous.)</text>
    	  	<text lang="pl">na adres e-mail podany obok.)</text>
 		<text lang="pt">para o e-mail indicado ao lado.)</text>
     </entry>
     <entry key="code_message3">
     	<text lang="en">Please enter the received code here:</text>
     	<text lang="de">Bitte geben Sie den erhaltenen Code hier ein:</text>
+    	<text lang="fr">Veuillez entrer ici le code reçu :</text>
     	<text lang="nl">Ontvangen beveiligingscode:</text>
    		<text lang="pl">Podaj otrzymany kod zabezpieczający:</text>
 		<text lang="pt">Digite o código recebido aqui:</text>
@@ -2292,6 +2304,7 @@ See French text.
     <entry key="send_code_mail_body_1">
     	<text lang="en">Dear user </text>
     	<text lang="de">Sehr geehrte/r User </text>
+    	<text lang="fr">Cher utilisateur </text>
     	<text lang="nl">Beste </text>
    		<text lang="pl">Drogi Użytkowniku </text>
 		<text lang="pt">Caro usuário</text>
@@ -2299,6 +2312,7 @@ See French text.
     <entry key="send_code_mail_body_2">
     	<text lang="en">a security code has been requested for your email adress.</text>
     	<text lang="de">ein Sicherheitscode wurde für Ihre Emailadresse angefordert.</text>
+    	<text lang="fr">un code de sécurité a été créé pour votre adresse email.</text>
     	<text lang="nl">Een beveiligingscode is nodig voor je email adres.</text>
     	<text lang="pl">zażądano kodu zabezpieczającego dal tego adresu e-mail.</text>
 		<text lang="pt">um código de segurança foi solicitado pelo seu e-mail</text>
@@ -2306,6 +2320,7 @@ See French text.
     <entry key="send_code_mail_body_3">
     	<text lang="en">If you haven't requested this security code, please contact your system administrator.</text>
     	<text lang="de">Sollten Sie diesen Sicherheitscode nicht angefordert haben, wenden sie sich bitte an Ihren Systemadministrator.</text>
+    	<text lang="fr">Si ce n'est pas vous qui en avez fait la demande, merci de contacter votre administrateur système.</text>
     	<text lang="nl">Indien je geen beveiligingscode gevraagd hebt, neem dan contact met de systeem beheerder.</text>
 		<text lang="pl">Jeśli to nie Ty zażądałeś/aś tego kodu, skontaktuj się z administratorem systemu.</text>
 		<text lang="pt">Se você não tiver solicitado o código de segurança, entre em contato com o administrador do sistema.</text>
@@ -2313,6 +2328,7 @@ See French text.
     <entry key="send_code_mail_body_4">
     	<text lang="en">This email has been sent by the following system: </text>
     	<text lang="de">Diese Email wurde vom System </text>
+    	<text lang="fr">Cet email a été envoyé par le système suivant : </text>
     	<text lang="nl">Deze mail werd verstuurd door: </text>
      	<text lang="pl">Ten e-mail został wysłany przez następujący system: </text>
 		<text lang="pt">Este e-mail foi enviado pelo seguinte sistema: </text>
@@ -2320,6 +2336,7 @@ See French text.
     <entry key="send_code_mail_body_5">
     	<text lang="en">under the following URL: </text>
     	<text lang="de">unter der URL </text>
+    	<text lang="fr">sous l'URL suivant : </text>
     	<text lang="nl">met URL </text>
     	<text lang="pl">pod tym adresem URL: </text>
 		<text lang="pt">comm a seguinte URL: </text>
@@ -2327,12 +2344,14 @@ See French text.
     <entry key="person_resource">
     	<text lang="en">person resource: </text>
     	<text lang="de">Personenressource: </text>
+    	<text lang="fr">Ressource-personne : </text>
     	<text lang="nl">Persoon: </text>
 		<text lang="pt">recursos humanos: </text>
     </entry>
     <entry key="connect">
     	<text lang="en">connect</text>
     	<text lang="de">verbinden</text>
+    	<text lang="fr">connecter</text>
     	<text lang="nl">Aanmelden</text>
     	<text lang="pl">Połącz</text>
 		<text lang="pt">conectar</text>
@@ -2341,6 +2360,7 @@ See French text.
     <entry key="disconnect">
     	<text lang="en">disconnect</text>
     	<text lang="de">lösen</text>
+    	<text lang="fr">déconnecter</text>
     	<text lang="nl">Afmelden</text>
     	<text lang="pl">Rozłącz</text>
 		<text lang="pt">desconectar</text>
@@ -2349,6 +2369,7 @@ See French text.
     <entry key="personal_options">
     	<text lang="en">Personal options</text>
     	<text lang="de">Persönliche Einstellungen</text>
+    	<text lang="fr">Options personnelles</text>
     	<text lang="nl">Persoonlijke instellingen</text>
    		<text lang="pl">Ustawienia osobiste</text>
 		<text lang="pt">Opções pessoais</text>
@@ -2357,6 +2378,7 @@ See French text.
     <entry key="enter_name">
     	<text lang="en">Please enter your name and firstname:</text>
     	<text lang="de">Bitte geben Sie Vor- und Zuname ein:</text>
+    	<text lang="fr">Merci d'entrer votre nom et votre prénom</text>
     	<text lang="nl">Wijzig persoonlijk instellingen:</text>
     	<text lang="pl">Proszę wprowadź swoje nazwisko i imię:</text>
 		<text lang="pt">Digite seu nome e sobrenome</text>
@@ -2365,6 +2387,7 @@ See French text.
     <entry key="code_error1">
     	<text lang="en">"The stated code doesn't match the code in the email. "</text>
     	<text lang="de">"Der angegebene Code entspricht nicht dem Code in der Email."</text>
+    	<text lang="fr">"Le code entré ne correspond pas au code qui vous a été fourni par email."</text>
     	<text lang="nl">"De beveiligingscode is verschillend van deze in de verstuurde mail."</text>
 		<text lang="pt">"O código indicado não corresponde ao código no e-mail."</text>
 
@@ -2372,6 +2395,7 @@ See French text.
     <entry key="code_error2">
     	<text lang="en">The stated code is not a number.</text>
     	<text lang="de">Der angegegebene Code ist keine Zahl.</text>
+    	<text lang="fr">Le code entré n'est pas un nombre.</text>
     	<text lang="nl">De beveiligingscode moet een nummer zijn.</text>
    		<text lang="pl">Podany kod nie jest liczbą.</text>
 		<text lang="pt">O código indicado não é um número.</text>
@@ -2379,6 +2403,7 @@ See French text.
     <entry key="password_change_info">
     	<text lang="en">Confirming will actually change your password.</text>
     	<text lang="de">Durch das bestätigen wird ihr Passwort geändert.</text>
+    	<text lang="fr">Confirmez si vous êtes sûr de vouloir changer votre mot de passe.</text>
     	<text lang="nl">Bevestiging zal het paswoord wijzigen.</text>
    		<text lang="pl">Zatwierdzenie naprawdę zmieni hasło.</text>
 		<text lang="pt">Confirmando vai realmente mudar sua senha.</text>
@@ -2452,7 +2477,7 @@ See French text.
     <entry key="reservation">
         <text lang="en">Event</text>
         <text lang="de">Veranstaltung</text>
-        <text lang="fr">Événement</text>
+        <text lang="fr">Évènement</text>
         <text lang="es">Evento</text>
         <text lang="cs">Událost</text>
         <text lang="nl">Reservatie</text>
@@ -2462,7 +2487,7 @@ See French text.
     <entry key="event">
         <text lang="en">Event</text>
         <text lang="de">Veranstaltung</text>
-        <text lang="fr">Événement</text>
+        <text lang="fr">Évènement</text>
         <text lang="es">Evento</text>
         <text lang="cs">Událost</text>
         <text lang="nl">Reservatie</text>
@@ -2472,7 +2497,7 @@ See French text.
     <entry key="new_reservation">
         <text lang="en">New Event...</text>
         <text lang="de">Neue Veranstaltung</text>
-        <text lang="fr">Nouvel événement</text>
+        <text lang="fr">Nouvel évènement</text>
         <text lang="es">nuevo evento</text>
         <text lang="cs">Nová událost</text>
         <text lang="nl">Nieuwe reservatie</text>
@@ -2483,7 +2508,7 @@ See French text.
     <entry key="eventname">
         <text lang="en">eventname</text>
         <text lang="de">Veranstaltungsname</text>
-        <text lang="fr">Nom de l'événement</text>
+        <text lang="fr">Nom de l'évènement</text>
         <text lang="es">Nombre del evento</text>
         <text lang="cs">Název události</text>
         <text lang="nl">Reservatie naam</text>
@@ -2494,7 +2519,7 @@ See French text.
     <entry key="reservations">
         <text lang="en">Events</text>
         <text lang="de">Veranstaltungen</text>
-        <text lang="fr">Événements</text>
+        <text lang="fr">Évènements</text>
         <text lang="es">Eventos</text>
         <text lang="cs">Události</text>
         <text lang="nl">Reservaties</text>        
@@ -2504,7 +2529,7 @@ See French text.
      <entry key="reservations_and_resources">
         <text lang="en">Events and resources</text>
         <text lang="de">Veranstaltungen und Ressourcen</text>
-        <text lang="fr">Événements/Ressources</text>
+        <text lang="fr">Évènements et Ressources</text>
         <text lang="es">Eventos/Recursos</text>
         <text lang="cs">Události/Prostředky</text>
         <text lang="nl">Reservaties en Middelen</text>        
@@ -2515,7 +2540,7 @@ See French text.
     <entry key="reservation_type">
         <text lang="en">Event Type</text>
         <text lang="de">Veranstaltungstyp</text>
-        <text lang="fr">Type d'événement</text>
+        <text lang="fr">Type d'évènement</text>
         <text lang="es">Tipo de evento</text>
         <text lang="cs">Druh události</text>
         <text lang="nl">Event type</text>        
@@ -2525,7 +2550,7 @@ See French text.
     <entry key="edit_reservations">
         <text lang="en">Edit own</text>
         <text lang="de">eigene bearbeiten</text>
-        <text lang="fr">Modifier les siennes</text>
+        <text lang="fr">Modifier ses évènements</text>
         <text lang="es">modificar las propias</text>
         <text lang="cs">Změň majitele</text>
         <text lang="nl">bewerk eigen</text>
@@ -2535,7 +2560,7 @@ See French text.
     <entry key="reservation.appointments">
         <text lang="en">Appointments:</text>
         <text lang="de">Termine:</text>
-        <text lang="fr">Événement :</text>
+        <text lang="fr">Réservations :</text>
         <text lang="es">Citas: </text>
         <text lang="cs">Sjednaný:</text>
         <text lang="nl">Reservaties:</text>
@@ -2545,7 +2570,7 @@ See French text.
     <entry key="reservation.allocations">
         <text lang="en">Allocations:</text>
         <text lang="de">Belegungen:</text>
-        <text lang="fr">Allocation :</text>
+        <text lang="fr">Allocations :</text>
         <text lang="es">Asignaciones : </text>
         <text lang="cs">Rozvržení:</text>
         <text lang="nl">Bezetting: </text>
@@ -2555,7 +2580,7 @@ See French text.
     <entry key="reservation.owner">
         <text lang="en">Reserved by</text>
         <text lang="de">reserviert von</text>
-        <text lang="fr">Réservé par</text>
+        <text lang="fr">créé par</text>
         <text lang="es">Reservado por</text>
         <text lang="cs">Rezervace od</text>
         <text lang="nl">Gereserveerd door</text>
@@ -2948,7 +2973,7 @@ See French text.
     <entry key="years">
         <text lang="en">Years</text>
         <text lang="de">Jare</text>
-        <text lang="fr">Année</text>
+        <text lang="fr">Années</text>
         <text lang="es">Años</text>
         <text lang="nl">Jaren</text>
         <text lang="pl">Lata</text>
@@ -3126,7 +3151,7 @@ See French text.
     <entry key="appointment.exception.days">
         <text lang="en">Exception days:</text>
         <text lang="de">Ausgenommene Tage:</text>
-        <text lang="fr">Jours d'exceptions :</text>
+        <text lang="fr">Jours d'exception :</text>
         <text lang="es">Días de excepciones</text>
         <text lang="cs">Vyjímečné dny:</text>
         <text lang="nl">Uitzonderings dagen:</text>
@@ -3176,13 +3201,14 @@ See French text.
     <entry key="exchange_allocatables_appointment.format">
         <text lang="en">For what do you want to change the allocation</text>
         <text lang="de">Für was wollen Sie die Belegung ändern?</text>
+        <text lang="fr">Par quoi souhaitez-vous changer l'allocation ?</text>
         <text lang="pl">Dla czego chcesz zmienić przydział?</text>
 		<text lang="pt">Por qual motivo você deseja modificar a atribuição?</text>
     </entry>
     <entry key="single_appointment.format">
         <text lang="en">appointment on {0}</text>
         <text lang="de">Termin am {0}</text>
-        <text lang="fr">celle-ci {0}</text>
+        <text lang="fr">réservation de {0}</text>
         <text lang="es">reserva del {0}</text>
         <text lang="cs">termín {0}</text>
         <text lang="nl">Afspraak op {0}</text>
@@ -3284,7 +3310,7 @@ See French text.
     <entry key="selectable_on">
         <text lang="en">Selectable on</text>
         <text lang="de">auswählbar an</text>
-        <text lang="fr">Possible le</text>
+        <text lang="fr">Sélectionnable le</text>
         <text lang="es">Seleccionable en</text>
         <text lang="cs">Označitelný v</text>
         <text lang="nl">Selecteerbaar voor</text>
@@ -3294,7 +3320,7 @@ See French text.
     <entry key="selectable">
         <text lang="en">Selectable</text>
         <text lang="de">auswählbar</text>
-        <text lang="fr">Sélectionnable le</text>
+        <text lang="fr">Sélectionnable</text>
         <text lang="es">Seleccionable</text>
         <text lang="cs">Označitelný</text>
         <text lang="nl">Selecteerbaar</text>
@@ -3324,7 +3350,7 @@ See French text.
     <entry key="zero_appointment">
         <text lang="en">No appointment</text>
         <text lang="de">keinem Termin</text>
-        <text lang="fr">Pas de réservation</text>
+        <text lang="fr">Aucune réservation</text>
         <text lang="es">Ninguna cita</text>
         <text lang="cs">Nesjednáno</text>
         <text lang="nl">Geen afspraak</text>
@@ -3415,7 +3441,7 @@ See French text.
     <entry key="period.format.start">
         <text lang="en">Start of {0}</text>
         <text lang="de">Start {0}</text>
-        <text lang="fr">Début {0}</text>
+        <text lang="fr">Début de {0}</text>
         <text lang="es">Inicio de {0}</text>
         <text lang="cs">Začátek  {0}</text>
         <text lang="nl">Start van {0}</text>
@@ -3425,7 +3451,7 @@ See French text.
     <entry key="period.format.end">
         <text lang="en">End of {0}</text>
         <text lang="de">Ende {0}</text>
-        <text lang="fr">Fin {0}</text>
+        <text lang="fr">Fin de {0}</text>
         <text lang="es">Fin de {0}</text>
         <text lang="cs">Konec  {0}</text>
         <text lang="nl">Einde van {0}</text>
@@ -3580,7 +3606,7 @@ See French text.
     <entry key="delete.abort">
         <text lang="en">Don't delete it!</text>
         <text lang="de">NICHT ausführen!!</text>
-        <text lang="fr">Annuler la commande !</text>
+        <text lang="fr">Non, ne pas effacer !</text>
         <text lang="es">¡No, no lo hagas!</text>
         <text lang="cs">Ne, nedělej to!!</text>
         <text lang="nl">Annuleren</text>        
@@ -3621,7 +3647,7 @@ See French text.
     <entry key="exit.abort">
         <text lang="en">Continue Rapla >></text>
         <text lang="de">Weiter planen >></text>
-        <text lang="fr">Continuer Rapla >></text>
+        <text lang="fr">Poursuivre sur Rapla >></text>
         <text lang="es">Continuar Rapla >></text>
         <text lang="cs">Pokračuj v plánování</text>
         <text lang="nl">Terugkeren</text>
@@ -3643,7 +3669,7 @@ See French text.
         <text lang="en">You have not saved your changes.</text>
         <text lang="de">Sie haben die vorgenommenen Änderungen noch
    nicht gespeichert.</text>
-        <text lang="fr">Vous n'avez pas sauvegardé les modifications !</text>
+        <text lang="fr">Vous n'avez pas sauvegardé vos modifications.</text>
         <text lang="es">¡No ha guardado las modificaciones!</text>
         <text lang="cs">Neuložil(a) jste změny!</text>
         <text lang="nl">De wijzigingen worden niet geregistreerd!</text>
@@ -3723,7 +3749,7 @@ See French text.
                 <strong>@doc.developer-list@</strong>
             </p>
             <p>Version : @doc.buildtime@ R@doc.revision@</p>
-            <p>Signature: {0}</p>
+            <p>Signature : {0}</p>
             <p>Version Java {1}</p>
         </text>
         <text lang="es">
@@ -4006,7 +4032,7 @@ See French text.
     <entry key="filter_reservation.own">
         <text lang="en">Own events</text>
         <text lang="de">Eigene Veranstaltungen</text>
-        <text lang="fr">Vos propres événements</text>
+        <text lang="fr">Vos propres évènements</text>
         <text lang="es">Sus propios eventos</text>
         <text lang="cs">Moje události</text>
         <text lang="nl">Eigen reservaties</text>
@@ -4149,7 +4175,7 @@ See French text.
     <entry key="only_own_reservations">
         <text lang="en">Only Own Reservations</text>
         <text lang="de">Nur eigene Reservierungen</text>
-        <text lang="fr">Seulement mes réservations</text>
+        <text lang="fr">Seulement mes évènements</text>
         <text lang="es">Sólo mis reservas</text>
         <text lang="cs">Moje rezervace</text>
         <text lang="nl">Enkel eigen reservaties</text>
@@ -4159,7 +4185,7 @@ See French text.
     <entry key="reservations_from_all_users">
         <text lang="en">Events from all users</text>
         <text lang="de">Veranstaltungen von allen Benutzern</text>
-        <text lang="fr">Événement de tous les utilisateurs</text>
+        <text lang="fr">Évènement de tous les utilisateurs</text>
         <text lang="es">Eventos de todos los usuarios</text>
         <text lang="cs">Rezervace všech uživatelů</text>
         <text lang="nl">Reservaties van alle gebruikers</text>
@@ -4354,7 +4380,7 @@ See French text.
         <text lang="en">Events not matched by filter</text>
         <text lang="de">Ausgefilterte Veranstaltungen</text>
         <text lang="es">Eventos que no coincidan con filtro</text>
-        <text lang="fr">Événements non couverts par le filtre</text>
+        <text lang="fr">Évènements non couverts par le filtre</text>
         <text lang="nl">Uitgefilterde reservaties</text>
         <text lang="pl">Zdarzenia odfiltrowane</text>
 		<text lang="pt">Eventos que não coincidam com o filtro</text>
@@ -4372,7 +4398,7 @@ See French text.
     <entry key="restart_client">
         <text lang="en">Restart Rapla client</text>
         <text lang="de">Rapla neu starten</text>
-        <text lang="fr">Redémarrer Rapla</text>
+        <text lang="fr">Redémarrer le client Rapla</text>
         <text lang="es">Reiniciar el cliente Rapla</text>
         <text lang="cs">Restart klienta</text>
         <text lang="nl">Herstart gebruiker</text>
@@ -4404,7 +4430,7 @@ See French text.
     <entry key="new_reservation.format">
         <text lang="en">New Event: {0}</text>
         <text lang="de">Neue Veranstaltung: {0}</text>
-        <text lang="fr">Nouvel événement : {0}</text>
+        <text lang="fr">Nouvel évènement : {0}</text>
         <text lang="es">Nuevo evento : {0}</text>
         <text lang="cs">Nová událost: {0}</text>
         <text lang="nl">Nieuw reservatie {0}</text>
@@ -4414,7 +4440,7 @@ See French text.
     <entry key="edit_reservation.format">
         <text lang="en">Edit event: {0}</text>
         <text lang="de">Veranstaltung bearbeiten: {0}</text>
-        <text lang="fr">Modifier l''événement: {0}</text>
+        <text lang="fr">Modifier l''événement : {0}</text>
         <text lang="es">Modificar el evento : {0}</text>
         <text lang="cs">Upravit událost: {0}</text>
         <text lang="nl">Bewerk reservatie {0}</text>
@@ -4444,7 +4470,7 @@ See French text.
     <entry key="translation.format">
         <text lang="en">Translations for &quot;{0}&quot;:</text>
         <text lang="de">Übersetzungen von &quot;{0}&quot;:</text>
-        <text lang="fr">Traduction de &quot;{0}&quot;:</text>
+        <text lang="fr">Traduction de &quot;{0}&quot; :</text>
         <text lang="es">Traducción de &quot;{0}&quot;:</text>
         <text lang="cs">Překlady pro &quot;{0}&quot;:</text>
         <text lang="nl">Vertaling voor &quot;{0}&quot;:</text>
@@ -4484,7 +4510,7 @@ See French text.
     <entry key="all-day">
         <text lang="en">all-day</text>
         <text lang="de">ganztägig</text>
-        <text lang="fr">24h</text>
+        <text lang="fr">toute la journée</text>
         <text lang="es">24h</text>
         <text lang="cs">24h</text>
 		<text lang="nl">24u</text>
@@ -4505,6 +4531,7 @@ See French text.
     <entry key="restart_options">
         <text lang="en">You need to restart Rapla/Rapla-server when you change the options!</text>
         <text lang="de">Starten Sie Rapla/den Rapla Server neu, damit die Veränderungen wirksam werden!</text>
+        <text lang="fr">Vous devez redémarrer Rapla/Rapla-serveur quand vous changez les options !</text>
         <text lang="nl">Om de wijzigingen te activeren moet je Rapla herstarten!</text>
         <text lang="pl">Zmiany zostaną wprowadzone po ponownym uruchomieniu Rapla.</text>
 		<text lang="pt">Você precisa reiniciar o Rapla/Servidor do Rapla quando modificar as opções!</text>
@@ -4565,7 +4592,7 @@ See French text.
         <entry key="warning.max-one-eventtype">
         <text lang="en">Only <strong>1</strong> event type is allowed. Adjust the filter!</text>
         <text lang="de">Nur 1 Veranstaltungstyp ist erlaubt. Passen Sie den Filter!</text>
-        <text lang="fr">Un seul type d'événement est autorisé. Réglez le filtre !</text>
+        <text lang="fr">Un seul type d'évènement est autorisé. Réglez le filtre !</text>
         <text lang="es">Sólo un tipo de evento se permite. Ajuste el filtro!</text>
         <text lang="cs">Pouze 1 typ události je povoleno. Nastavte. filtr!</text>
         <text lang="nl">Enkel 1 type event is toegestaan. Pas de filter aan!</text>
@@ -4576,7 +4603,7 @@ See French text.
         <entry key="including_date">
     	<text lang="en">Include date: {0}</text>
     	<text lang="de">mit Datum: {0}</text>
-    	<text lang="fr">y compris la date: {0}</text>
+    	<text lang="fr">y compris la date : {0}</text>
     	<text lang="es">incluyendo la fecha: {0} </text>
     	<text lang="cs">včetně data: {0}</text>
     	<text lang="nl">met datum / interval = {0}</text>
@@ -4637,7 +4664,7 @@ See French text.
     <entry key="undo">
         <text lang="en">Undo</text>
         <text lang="de">Zurück</text>
-        <text lang="fr">Retour</text>
+        <text lang="fr">Annuler</text>
         <text lang="es">de vuelta</text>
         <text lang="cs">reconstituir</text>
         <text lang="nl">Ontdoe</text>
@@ -4648,7 +4675,7 @@ See French text.
     <entry key="show_password">
     	<text lang="en">Show password</text>
     	<text lang="de">zeige Passwort</text>
-    	<text lang="fr">Montrer le mots de passe</text>
+    	<text lang="fr">Montrer le mot de passe</text>
     	<text lang="es">mostrar contraseña</text>
     	<text lang="cs">zobrazit heslo</text>
     	<text lang="nl">Toon paswoord</text>  
@@ -4725,7 +4752,7 @@ See French text.
     <entry key="new_reservations_from_template">
        <text lang="en">New event with template</text>
        <text lang="de">Neue Veranstaltungen mit Vorlage</text>
-   	   <text lang="fr">Nouvel événement avec modèle</text>
+   	   <text lang="fr">Nouvel évènement avec modèle</text>
    	   <text lang="es">Nuevos eventos con plantilla</text>
    	   <text lang="cs">Nové události s šablonou</text>
        <text lang="nl">Nieuwe reservatie met sjabloon</text>
